@@ -1,0 +1,135 @@
+    1  '''bash
+    2  ls
+    3  ls -a
+    4  ls -l
+    5  '''
+    6  pwd
+    7  '''bash
+    8  pwd
+    9  ls
+   10  ls -a
+   11  ls -l
+   12  '''
+   13  bash
+   14  bash
+   15  '''bash
+   16  pwd
+   17  ls
+   18  ls -a
+   19  ls -l
+   20  '''
+   21  '''bash pwd ls ls -a ls -l'''
+   22  ```bash
+   23  pwd
+   24  ls
+   25  ls -a
+   26  ls -l
+   27  ```
+   28  pwd
+   29  bash
+   30  '''bash
+   31  pwd
+   32  ls
+   33  ls -a
+   34  ls -l
+   35  '''
+   36  $
+   37  '''bash'''
+   38  pwd
+   39  ls
+   40  ls -a
+   41  ls -l
+   42  cd ~
+   43  mkdir coding-cafe
+   44  cd coding-cafe
+   45  mkdir week01
+   46  mkdir week02
+   47  touch week02
+   48  touch week02/notes.md
+   49  touch README.md
+   50  cd ~
+   51  ls coding-cafe/week02
+   52  pwd
+   53  ls
+   54  ls -a
+   55  ls -l
+   56  '''bash
+   57  ls coding-cafe/week02
+   58  '''
+   59  '''bash
+   60  pwd
+   61  '''
+   62  pwd
+   63  cd F:New volume
+   64  cd New volume
+   65  cd practice linux
+   66  cd practice linuxdell practice linux $
+   67  pwd
+   68  -l
+   69  -a
+   70  ls
+   71  ls -l
+   72  ls -a
+   73  bash
+   74  pwd
+   75  ls
+   76  ls -a
+   77  ls -l
+   78  cd Desktop
+   79  cd "/mnt/f/practice\ linux"
+   80  cd "/mnt/f/practice linux"
+   81  cd
+   82  cd ~
+   83  bash
+   84  ls -R
+   85  cd
+   86  cd~
+   87  cd ~
+   88  ls coding-cafe\week02
+   89  ls coding-cafe/week02
+   90  cd ~/coding-cafe
+   91  cd ~
+   92  cd coding-cafe
+   93  echo $PATH
+   94  which python3
+   95  which pip
+   96  which ls
+   97  which pip
+   98  which python3
+   99  pyton3
+  100  which pyton3
+  101  cd ~
+  102  cd~/coding-cafe
+  103  cd ~/coding-cafe
+  104  python3 -m venv .venv
+  105  sudo apt update
+  106  sudo apt install python3.14-venv
+  107  python3 -m venv .venv
+  108  ls
+  109  ls -a
+  110  source .venv/bin/activate
+  111  which python3
+  112  pip list
+  113  pip install requests
+  114  pip list
+  115  deactivate
+  116  which python3
+  117  man ls
+  118  ls -h
+  119  cd week02
+  120  ls -h
+  121  ls -a
+  122  ls -l
+  123  man ls
+  124  man man
+  125  history
+  126  python3
+  127  cd `
+
+'
+cd ~
+
+  128  c ~
+  129  cd ~
+  130  cd coding-cafe
+  131  history > week02/lab01-log.txt
